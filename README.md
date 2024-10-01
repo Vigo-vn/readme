@@ -47,3 +47,4 @@
 * Web application (React): dành cho các chức năng quản lý
 * Mobile (...): dành cho người dùng
 * Backend (...)
+* Figma: https://www.figma.com/design/JEvsOyZKd11OgiYz8YLTMF/Vigo?node-id=26-1959&node-type=frame&t=TyU8EZm6Z1WLGvIQ-0
